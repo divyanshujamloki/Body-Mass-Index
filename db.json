@@ -1,0 +1,6 @@
+{
+    "account":[
+        {"id":1,"amount":1100},{"id":2,"amount":1200},{"id":3,"amount":1300},
+        {"id":4,"amount":1400},{"id":5,"amount":1500},{"id":6,"amount":1600}
+    ]
+}
