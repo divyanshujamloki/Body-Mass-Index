@@ -1,3 +1,6 @@
+
+![image](https://github.com/divyanshujamloki/Body-Mass-Index/assets/77928275/a68d3127-bae6-40f7-85e2-cebafa579895)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
